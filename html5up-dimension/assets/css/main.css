@@ -695,9 +695,17 @@ input, select, textarea {
 			}
 
 		.image.main {
+			
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			/*
+			background-image: url("images/IMG_3633.jpg");
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			*/
 		}
 
 			.image.main img {
