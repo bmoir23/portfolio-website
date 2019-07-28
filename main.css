@@ -1272,6 +1272,7 @@ input, select, textarea {
 			transition: opacity 0.325s ease-in-out;
 			position: relative;
 			margin-top: 3.5rem;
+			
 		}
 
 			#header > *:before {
@@ -1331,14 +1332,16 @@ input, select, textarea {
 
 				#header .content .inner > :last-child {
 					margin-bottom: 0;
+					text-decoration: bold;
+					font-size: 2em;
 				}
 
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 2em;
-				line-height: 2;
-				text-decoration: bold;
+				line-height: 2em;
+				
 			}
 
 		#header nav ul {
