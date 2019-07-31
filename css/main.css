@@ -1323,6 +1323,7 @@ input, select, textarea {
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
+				font-weight: bold;
 			}
 
 				#header .content .inner > :last-child {
@@ -1368,6 +1369,7 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
+					font-weight:bold;
 				}
 
 					#header nav ul li a:hover {
